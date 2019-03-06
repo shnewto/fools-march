@@ -1,6 +1,6 @@
 # population of fire bend
 
-## Osborn, the school teacher
+## Osborn Brushgather, the school teacher
 - Halfling, pale skinned blue eyes
 - Black hair, ponytale
 - 50 yrs old
@@ -13,7 +13,7 @@
 - Quietly involved with Sutha, the barkeep at the Howling Pony Tavern and Vola, the barkeep at the Lonely Pony Tavern
 - Sometimes gets sexy with Aust of the general store / Loril the gnome / Orel the half-elf
 
-## Marta, mage / potion maker
+## Marta Domini, mage / potion maker
 - Human, brown skinned green eyed
 - Purple hair, curly
 - 65 yrs old
@@ -21,7 +21,7 @@
 - Nice clothes, but old. Out of style, moth eaten. 
 - Harbors feelings for the keeper at Black Mountain Inn
 
-## Pashar, armorer
+## Pashar Aoth, armorer
 - Human, brown skinned, brown eyed
 - Shaved head, gray hair growing in
 - 46 years old
@@ -31,7 +31,7 @@
 - Partner of Meilil the blacksmith
 - Mother of Vall
 
-## Meilil
+## Meilil Thola, blacksmith
 - Human, deep black skin, amber golden eyes
 - Short wirey black hair
 - 26 years old
@@ -50,7 +50,7 @@
 - The Omen style evil
 - Adopted child of Pashar and Meilil
 
-## Bor, Inn Keeper at Black Mountain Inn
+## Bor Amblecrown, Inn Keeper at Black Mountain Inn
 - Human, pale skin, blue eyes
 - Blue hair, erratic
 - 62 years old
@@ -58,7 +58,7 @@
 - Taps fingers incessantly
 - Flamboyant tunics and tight leather pants
 
-## Peren, undertaker
+## Peren Galondel, undertaker
 - Drow dark elf, ash gray skin, black eyes
 - White hair
 - Over 100 yrs old
@@ -68,7 +68,8 @@
 - Has a perfect memory
 
 ## Vola, bar keep at the Lonely Pony Tavern
-- Half-orc, black hair, black eyes
+- Half-orc, green skin, white eyes
+- Black hair
 - 40 years old
 - Female
 - Many piercings, septum, ears, lips, bridge of the nose
@@ -76,7 +77,8 @@
 - Quietly involved with Sutha, the barkeep at the Howling Pony Tavern and the halfling teacher Osborn
 
 ## Sutha, bar keep at the Howling Pony Tavern
-- Half-orc, black hair, black eyes
+- Half-orc, green skin, black eyes
+- Black hair
 - 35 years old
 - Female
 - Plays musical insturments 
@@ -96,7 +98,7 @@
 - Married to Amber
 - Parent of Tordek and Dagnal
 
-## Amber, works at the general store
+## Amber Ironfist, works at the general store
 - Dwarf, red hair, copper eyes
 - 102 years old
 - Female
@@ -106,19 +108,19 @@
 - Married to Ardryn
 - Mother of Tordek and Dagnal
 
-## Tordek, child of Amber and Ardryn
+## Tordek Ironfist-Stormhollow, child of Amber and Ardryn
 - Dwarf child, blond hair, copper eyes
 - Male
 - 10 years old
 - Gets into trouble, usually following Vall's direction
 
-## Dagnal, child of Amber and Ardryn
+## Dagnal Ironfist-Stormhollow, child of Amber and Ardryn
 - Dwarf Child, red hair, silver eyes
 - 6 years old
 - Female
 - Gets into trouble following Tordek around
 
-## Aust, manager / owner of the general store
+## Aust Liadon, manager / owner of the general store
 - Woodelf, blond hair, gray eyes
 - Male
 - Over 100 years old
@@ -138,14 +140,14 @@
 - Running from a secret crime, Osborn keeps her secret
 - Fiercely protective of the townsfolk
 
-## Orel, town slacker
-- Half-elf, clumsily clipped / chopped short brown hair, one yellow, one green eye
+## Orel Helder, town slacker
+- Half-elf, clumsily chopped short brown hair, one yellow, one green eye
 - 19 yrs old
 - Non-gendered
 - Usually drunk 
 - Sometimes gets sexy with Aust of the general store / Osborn the school teacher / Loril the gnome
 
-## Loril, the town's other slacker
+## Loril Daergel, the town's other slacker
 - Gnome
 - 40 years old
 - Non-gendered
