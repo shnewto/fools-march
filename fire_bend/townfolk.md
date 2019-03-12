@@ -1,5 +1,29 @@
 # population of fire bend
 
+secret info:
+these are HIGH level, ex-adevnturers. They've slowly gathered for a life of peace and shun the "responibility" of exteral affairs. they don't need the money they make on general goods / armor / weapons / potions. they're doing it as a cover. 
+
+they are deeply skeptical of the adventurers when they arrive but it's not apparent in all of them. they are generally appathetic. They need to be won over.
+
+- marta domini, always looks like she
+- Sutha, at the Howling Pony Tavern: "WOW look at that shiny AXE."
+- the slacker teen is just that, not a hero in their own right.
+- Aust Liadon,at the general store: patronizing
+- Orianna at the bookstore: talks down, like they're children.
+
+(note: vall, the drow child. when addressed: you will call me magesty! I am your lord, rightful king of the nine hells! he's up to actual trouble but the townsfolk have it 100% under control, they're gd badasses every one.)
+
+
+TODO:
+- Skill test for slackers party. hallucinogenic trip to limbo...
+- Stats of one (sub any) fire bend NPC in case anyone gets fighty.
+- 
+
+why is the town reaching out to these heros?
+- there's some weird stuff going on and no-one really wants to get involved...
+- marta's is pissed at Bor Amblecrown, and wants to see if there's anyone else interesting out there. potenital new friends / partners...
+- 
+
 ## Osborn Brushgather, the school teacher
 - Halfling, pale skinned blue eyes
 - Black hair, ponytale
@@ -15,7 +39,8 @@
 
 ## Marta Domini, mage / potion maker
 - Human, brown skinned green eyed
-- Purple hair, curly
+- always looks like she just woke up or hasn't slept in 10 days
+- Purple hair, curly, short, unkepmt
 - 65 yrs old
 - Female
 - Nice clothes, but old. Out of style, moth eaten. 
@@ -54,7 +79,7 @@
 - Human, pale skin, blue eyes
 - Blue hair, erratic
 - 62 years old
-- Dim-witted
+- Dim-witted (by all appearances. also a powerful mage)
 - Taps fingers incessantly
 - Flamboyant tunics and tight leather pants
 
