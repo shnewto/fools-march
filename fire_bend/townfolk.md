@@ -24,6 +24,10 @@ why is the town reaching out to these heros?
 - marta's is pissed at Bor Amblecrown, and wants to see if there's anyone else interesting out there. potenital new friends / partners...
 - 
 
+
+not a given that the adventurers will fight the sentient choas elemental. they may help usher in madness by helping them. (that'd be craaaazy and prob fun.)
+but. if that's the case, the townfolk may end up being a "last batle". the true heros to stop them...
+
 ## Osborn Brushgather, the school teacher
 - Halfling, pale skinned blue eyes
 - Black hair, ponytale
