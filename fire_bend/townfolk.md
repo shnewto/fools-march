@@ -1,14 +1,14 @@
 # population of fire bend
 
 secret info:
-these are HIGH level, ex-adevnturers. They've slowly gathered for a life of peace and shun the "responibility" of exteral affairs. they don't need the money they make on general goods / armor / weapons / potions. they're doing it as a cover. 
+these are HIGH level, ex-adevnturers. They've slowly gathered for a life of peace and shun the "responibility" of exteral affairs. they don't need the money they make on general goods / armor / weapons / potions. they're doing it as a cover or just to keep busy in a life of leisure. 
 
 they are deeply skeptical of the adventurers when they arrive but it's not apparent in all of them. they are generally appathetic. They need to be won over.
 
-- marta domini, always looks like she
+- marta domini, always looks like she just woke up, and acts like it too.
 - Sutha, at the Howling Pony Tavern: "WOW look at that shiny AXE."
 - the slacker teen is just that, not a hero in their own right.
-- Aust Liadon,at the general store: patronizing
+- Aust Liadon, at the general store: patronizing
 - Orianna at the bookstore: talks down, like they're children.
 
 (note: vall, the drow child. when addressed: you will call me magesty! I am your lord, rightful king of the nine hells! he's up to actual trouble but the townsfolk have it 100% under control, they're gd badasses every one.)
@@ -26,7 +26,7 @@ why is the town reaching out to these heros?
 
 
 not a given that the adventurers will fight the sentient choas elemental. they may help usher in madness by helping them. (that'd be craaaazy and prob fun.)
-but. if that's the case, the townfolk may end up being a "last batle". the true heros to stop them...
+but. if that's the case, the townfolk may end up being a "last battle". the true heros to stop them...
 
 ## Osborn Brushgather, the school teacher
 - Halfling, pale skinned blue eyes
@@ -48,7 +48,7 @@ but. if that's the case, the townfolk may end up being a "last batle". the true 
 - 65 yrs old
 - Female
 - Nice clothes, but old. Out of style, moth eaten. 
-- Harbors feelings for the keeper at Black Mountain Inn
+- Harbors feelings for Bor Amblecrown, the keeper at Black Mountain Inn
 
 ## Pashar Aoth, armorer
 - Human, brown skinned, brown eyed
@@ -102,7 +102,7 @@ but. if that's the case, the townfolk may end up being a "last batle". the true 
 - 40 years old
 - Female
 - Many piercings, septum, ears, lips, bridge of the nose
-- Missing last three fingers on herright hand (only pointer and thumb left, lost in a fight with Sutha)
+- Missing last three fingers on her right hand (only pointer and thumb left, lost in a fight with Sutha)
 - Quietly involved with Sutha, the barkeep at the Howling Pony Tavern and the halfling teacher Osborn
 
 ## Sutha, bar keep at the Howling Pony Tavern
